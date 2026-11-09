@@ -1,0 +1,39 @@
+.container{
+    border: 1px dotted black;
+    height: 300px;
+    width: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* gap: 10px; */
+}
+.miniDiv{
+    background-color: aqua;
+    width: 90%;
+    height: 50px;
+    border: 1px solid black;
+    padding: 15px;
+    /* margin: 10px; */
+    border-radius: 15px;
+}
+
+.rowDiv{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    /* padding: 15px; */
+}
+
+#email{
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+#btn:hover{
+    cursor: pointer;
+    color: red;
+
+}
