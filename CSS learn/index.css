@@ -1,0 +1,31 @@
+h1{
+    color: red;
+    background-color: yellow;
+    text-decoration:underline;
+    text-align:center;
+}
+#para1{
+    color:red;
+    background-color:yellowgreen;
+    font-size:18px;
+    font-family:arial;
+    font-weight:100;
+    line-height:2;
+    text-transform:uppercase;
+    
+}
+
+#para2{
+    color:hwb(30 0% 97%);
+    background-color:lightblue;
+}
+
+/* button{
+    color:blue;
+    background-color:lightgray;
+} */
+
+.btn{
+    color:blue;
+    background-color:lightgray; 
+}
