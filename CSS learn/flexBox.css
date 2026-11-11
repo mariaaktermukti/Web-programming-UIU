@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 600px;
+}
+
+#b1{
+    background-color: red;
+    height: 90px;
+    width: 90px;
+}
+
+#b2{
+    background-color: green;
+    height: 90px;
+    width: 90px;
+}
+
+#b3{
+    background-color: yellow;
+    height: 90px;
+    width: 90px;
+}
+
+#b4{
+    background-color: blue;    height: 90px;
+    width: 90px;
+}
+
+.container{
+    height: 500px;
+    width: 600px;
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
