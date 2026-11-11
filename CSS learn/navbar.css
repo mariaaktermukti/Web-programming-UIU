@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    height: 40px;
+    background-color:chartreuse;
+    padding-top: 15px;
+
+}
+
+a{
+    font-style:normal;
+    font-size: bold;
+    Margin: 10px;
+    margin-right: 190px;
+}
+
+search{
+    background-color: white;
+    padding: 5px;
+}
+
+button{
+    background-color: white;
+    padding: 5px;
+}
+
